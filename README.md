@@ -8,11 +8,13 @@ By collecting and categorizing projects related to Orthodoxy, we hope to encoura
 
 ### Software
 
-#### neanes
+#### [neanes](https://github.com/neanes/neanes)
 
 Neanes is a free and open source scorewriter for notating Byzantine chant in Byzantine notation.
 
-[https://github.com/neanes/neanes](https://github.com/neanes/neanes)
+#### [bza](https://github.com/kolitsoy/bza)
+
+BZA is an assistant that intends to help you get the correct pitch for any note of Byzantine chant, but it can also be used for isokratima.
 
 ## Contributing
 
