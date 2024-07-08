@@ -1,8 +1,8 @@
 # Orthodox Projects
 
-### This repository serves as a centralized source for various GitHub projects related to Orthodox Christianity. Whether you are looking for software or other resources, you'll find a curated list of relevant projects here.
+### This repository serves as a centralized source for various GitHub projects related to Orthodox Christianity.
 
-By collecting and categorizing projects related to Orthodoxy, we hope to encourage collaboration and make these resources more accessible to the wider community.
+Whether you are looking for software or other resources, you'll find a curated list of relevant projects here. By collecting and categorizing projects related to Orthodoxy, we hope to encourage collaboration and make these resources more accessible to the wider community.
 
 ## Projects
 
