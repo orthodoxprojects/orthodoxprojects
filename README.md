@@ -16,6 +16,14 @@ Neanes is a free and open source scorewriter for notating Byzantine chant in Byz
 
 BZA is an assistant that intends to help you get the correct pitch for any note of Byzantine chant, but it can also be used for isokratima.
 
+## To-Do List
+
+A site that allows sorting all the Projects by Name, Categories or Stars.
+
+## Members
+
+Members who want to be visible as People of the Organization must set the visibility from private to public.
+
 ## Contributing
 
 We welcome contributions from everyone! If you know of a project that should be included, or if you want to add more information to an existing entry, please follow these steps:
