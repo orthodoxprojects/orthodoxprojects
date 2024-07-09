@@ -1,6 +1,6 @@
 ### Organizations
 
-- [neanes](https://github.com/neanes/neanes)
+- [neanes](https://github.com/neanes)
 - [kolitsoy](https://github.com/kolitsoy)
 - [orthodoxprojects](https://github.com/orthodoxprojects)
 
