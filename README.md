@@ -6,9 +6,48 @@ Whether you are looking for software or other resources, you'll find a curated l
 
 ## Projects
 
-- [Softwares](Softwares.md)
-- [Resources](Resources.md)
-- [Organizations](Organizations.md)
+<details>
+<summary>Softwares</summary>
+
+#### [neanes](https://github.com/neanes/neanes)
+
+Neanes is a free and open source scorewriter for notating Byzantine chant in Byzantine notation.
+
+#### [bza](https://github.com/kolitsoy/bza)
+
+BZA is an assistant that intends to help you get the correct pitch for any note of Byzantine chant, but it can also be used for isokratima.
+
+#### [ponomar](https://github.com/typiconman/ponomar)
+
+Ponomar is a fully-functional program suite for the Orthodox Church.
+
+#### [orthocal-python](https://github.com/brianglass/orthocal-python)
+
+Orthocal-python is an Eastern Orthodox calendar service providing commemorations, fasting, scripture readings and other information for each day of the liturgical year.
+
+</details>
+
+<details>
+<summary>Resources</summary>
+
+#### [byzantine-music](https://github.com/basil/byzantine-music)
+
+This repository contains Byzantine musical settings of Orthodox Christian liturgical texts. The musical settings are typeset with [neanes](https://github.com/danielgarthur/neanes).
+
+#### [neanes-examples](https://github.com/ilizol/neanes-examples)
+
+Some examples using [neanes](https://github.com/danielgarthur/neanes), a free and open source scorewriter for notating Byzantine Chant.
+
+</details>
+
+<details>
+<summary>Organizations</summary>
+
+- [neanes](https://github.com/neanes)
+- [kolitsoy](https://github.com/kolitsoy)
+- [orthodoxprojects](https://github.com/orthodoxprojects)
+
+</details>
 
 ## To-Do List
 
