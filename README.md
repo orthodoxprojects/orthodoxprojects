@@ -43,9 +43,8 @@ Some examples using [neanes](https://github.com/danielgarthur/neanes), a free an
 <details>
 <summary>Organizations</summary>
 
-- [neanes](https://github.com/neanes)
-- [kolitsoy](https://github.com/kolitsoy)
 - [orthodoxprojects](https://github.com/orthodoxprojects)
+- [neanes](https://github.com/neanes)
 
 </details>
 
